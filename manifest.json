@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+
+  "name": "Pomotab",
+  "description": "Just open Pomoday.",
+  "version": "1.0",
+
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "popup.html"
+  },
+  "chrome_url_overrides": {
+    "newtab": "main.html"
+  },
+  "permissions": [
+    "activeTab"
+  ]
+}
