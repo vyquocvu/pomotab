@@ -1,6 +1,6 @@
-# Chrome-new-tab
+# Pomoday Chrome Extension
 
-Chrome Extension, overwrite new tabs with https://pomoday.app
+Open https://pomoday.app in new tab.
 
 ### Install
 - Clone this repo (and extract it)
